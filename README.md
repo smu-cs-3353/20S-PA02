@@ -52,4 +52,4 @@ You'll read in a control file that will contain a set of commands to be processe
     * Girvan M. and Newman M. E. J., [Community structure in social and biological networks](https://www.pnas.org/content/99/12/7821), Proc. Natl. Acad. Sci. USA 99, 7821–7826 (2002).  
 
 
-
+You will need to create your CLion project in this repository as well as add in the GitHub Actions file.  Be sure to modify the CMakeLists.txt file to copy any input files to the build directory.  You can use the one from Project 01 as an example. Same goes for Actions .yaml file. 
